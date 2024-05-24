@@ -48,10 +48,6 @@ Conception d'un service d'hébergement d'images en utilisant React.js et Node.js
 ### Reload-Airsoft
 Engagé dans la conception et le développement de Reload Airsoft, une initiative en cours créée avec Golang et React, visant à établir une communauté dynamique d'airsofteurs.
 
-## 📈 Statistiques GitHub
-
-![Statistiques GitHub de Maxime](https://github-readme-stats.vercel.app/api?username=maxime-louis14&show_icons=true&theme=radical)
-
 ## 📫 Me Contacter
 
 - LinkedIn : [Maxime Louis](https://www.linkedin.com/in/maxime-louis14/)
