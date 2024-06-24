@@ -49,8 +49,6 @@ Toujours heureux de discuter de DevOps, de développement web ou de cybersécuri
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxime-louis14&layout=compact&theme=radical)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=maxime-louis14&theme=radical)
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=maxime-louis14&theme=rogue)
-
 ## 🏆 Réalisations et Contributions
 
 - **Les Éco Pépites (2022-2023) :** Optimisation du site, ajout de fonctionnalités personnalisées, et interventions sous WordPress.
