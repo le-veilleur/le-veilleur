@@ -27,6 +27,18 @@ Toujours heureux de discuter de DevOps, de développement web ou de cybersécuri
 - [Portfolio](#)
 - Email : [maximelouispro@proton.me](mailto:maximelouispro@proton.me)
 
+## 🚀 Outils et Technologies
+
+### Outils de Développement
+
+![Git](https://img.shields.io/badge/-Git-f34f29?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![Debian](https://img.shields.io/badge/-Debian-a81d33?style=flat-square&logo=debian&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=black)
+![TDD](https://img.shields.io/badge/-TDD-ef4a47?style=flat-square&logo=tdd&logoColor=white)
+![Tests Unitaires](https://img.shields.io/badge/-Tests%20Unitaires-6db33f?style=flat-square&logo=testing-library&logoColor=white)
+
 ## 💻 Compétences
 
 ### Languages Back-end
