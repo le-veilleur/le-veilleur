@@ -1,8 +1,6 @@
 # Présentation de Maxime Louis
 
-Bonjour à tous 👋
-
-Je suis Maxime, un passionné de développement web en alternance, spécialisé en Golang. Actuellement, je suis particulièrement intéressé par le secteur du DevOps, qui offre des opportunités d'innovation et remet en question les pratiques conventionnelles. En dehors du travail, je suis passionné par la cybersécurité, les jeux vidéo et les mangas.
+Je m'appelle Maxime Louis, passionné par la programmation, et je suis actuellement en mastère Lead Dev Full Stack. À la recherche d'une alternance à la Normandie Web School, j'utilise principalement le langage Golang pour développer des projets web, notamment des API REST et des scrapers. Je m'intéresse également au DevOps, un domaine qui favorise l'innovation et remet en question les méthodes traditionnelles de développement et de déploiement. En dehors de mon activité professionnelle, je me passionne pour la cybersécurité, les jeux vidéo et les mangas, qui stimulent ma curiosité et ma créativité.
 
 ## 🔭 Projets Actuels
 
