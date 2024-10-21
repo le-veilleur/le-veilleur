@@ -2,13 +2,7 @@
 
 Bonjour,
 
-Je suis passionné par la programmation, et je suis actuellement en mastère Lead Dev Full Stack. À la recherche d'une alternance à la Normandie Web School, j'utilise principalement le langage Golang pour développer des projets web, notamment des API REST et des scrapers. Je m'intéresse également au DevOps, un domaine qui favorise l'innovation et remet en question les méthodes traditionnelles de développement et de déploiement. En dehors de mon activité professionnelle, je me passionne pour la cybersécurité.
-
-## 🔭 Projets Actuels
-
-- **Scraper Golang :** Création d'un scraper qui récupère les données d'un site web et les convertit dans un fichier JSON, avec une option de stockage en MySQL ou MongoDB.
-- **ImageShack :** Conception d'un service d'hébergement d'images utilisant C#, déployé sur un serveur VPS.
-- **AnnonceXpert :** Développement d'une plateforme conviviale d'annonces en ligne en C#, mettant l'accent sur la sécurité avec l'utilisation de JWT.
+Passionné par la programmation, je suis actuellement en mastère Lead Dev Full Stack à la Normandie Web School et je suis à la recherche d'une alternance. J'utilise principalement le langage Go (Golang) pour développer des projets personnels, notamment des API REST et des scrapers. Je m'intéresse également au domaine de l'infrastructure, où j'expérimente avec un Raspberry Pi pour la mise en ligne de projets tels que des sites web, scrapers, et API, en utilisant des outils comme Nginx, Apache2, Git, Docker, et UFW. Ces projets, qu'ils soient terminés ou en cours de développement, témoignent de ma volonté de progresser et d'acquérir de nouvelles compétences dans le domaine.
 
 ## 🌱 En Cours d'Apprentissage
 
