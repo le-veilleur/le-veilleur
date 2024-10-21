@@ -1,4 +1,4 @@
-# Présentation de Maxime Louis
+# Présentation de Maxime
 
 Bonjour,
 
