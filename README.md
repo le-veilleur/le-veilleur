@@ -2,17 +2,31 @@
 
 Bonjour,
 
-Passionné par la programmation, je suis actuellement en mastère Lead Dev Full Stack à la Normandie Web School et je suis à la recherche d'une alternance. J'utilise principalement le langage Go (Golang) pour développer des projets personnels, notamment des API REST et des scrapers. Je m'intéresse également au domaine de l'infrastructure, où j'expérimente avec un Raspberry Pi pour la mise en ligne de projets tels que des sites web, scrapers, et API, en utilisant des outils comme Nginx, Apache2, Git, Docker, et UFW. Ces projets, qu'ils soient terminés ou en cours de développement, témoignent de ma volonté de progresser et d'acquérir de nouvelles compétences dans le domaine.
+Passionné par la programmation, je suis actuellement en mastère Lead Dev Full Stack à la Normandie Web School et je suis à la recherche d'une alternance. J'utilise principalement le langage Go (Golang) pour développer des projets personnels, notamment des API REST et des scrapers. Je m'intéresse aussi à l'infrastructure, en expérimentant avec un Raspberry Pi pour déployer des projets comme des sites web, scrapers et API, en utilisant des outils comme Nginx, Apache2, Git, Docker, et UFW. Ces projets, qu'ils soient terminés ou en cours de développement, témoignent de ma volonté de progresser et d'acquérir de nouvelles compétences dans le domaine.
 
 ## 🌱 En Cours d'Apprentissage
 
-- DevOps et Dev
-- Scalabilité et services cloud (AWS, Azure)
-- Nouvelles technologies et frameworks web
+- **Administration système** : Gestion de serveurs Linux et configuration des environnements de production.
+- **Cybersécurité (systèmes et réseaux)** : Apprentissage des meilleures pratiques de sécurité pour les infrastructures IT.
+- **Développement backend & frontend** : Expérimentation avec des technologies comme Go, Node.js, React, et Vue.js pour le développement full-stack.
+- **Machine Learning & Intelligence Artificielle** : Introduction aux concepts de l'IA et du machine learning.
+- **Pilotage de performance** : Suivi des indicateurs clés de performance et optimisation des processus.
+- **Dataviz** : Visualisation des données pour une meilleure compréhension et prise de décision.
+
+
+- **Open-source et gouvernance** : Étude des principes de l'open-source et de la gestion de projets collaboratifs.
+- **Instrumentation & Mesures** : Suivi des performances avec des outils de monitoring pour assurer la disponibilité et la performance des applications.
+- **Serverless** : Développement d'applications en utilisant des services sans serveur.
+- **Cloud (Azure, GCP, AWS, IBM Bluemix)** : Utilisation des services cloud pour le déploiement et la gestion d'applications à grande échelle.
+- **Bases de données distribuées** : Gestion et mise en œuvre de bases de données sur des infrastructures distribuées.
+- **Audit des systèmes d'information** : Analyse et évaluation des systèmes d'information pour garantir leur sécurité et efficacité.
+
 
 ## 💬 Discutons
 
-Toujours heureux de discuter de DevOps, de développement web ou de cybersécurité ! N'hésitez pas à me contacter pour toute opportunité ou pour échanger sur des sujets qui nous passionnent.
+Actuellement en recherche active d'une alternance dans le domaine du développement Full Stack ou DevOps, je suis très motivé à rejoindre une entreprise dynamique. J'apporte avec moi une passion pour la programmation, l'infrastructure cloud et la cybersécurité, et je suis prêt à mettre mes compétences au service de projets innovants. N'hésitez pas à me contacter pour discuter de toute opportunité d'alternance ou pour échanger sur des sujets techniques !
+
+
 
 ## 🌐 Réseaux Sociaux
 
