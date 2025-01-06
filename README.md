@@ -1,6 +1,6 @@
 ### Bienvenue sur mon GitHub 👋
 
-Je suis **Maxime**, un développeur full-stack passionné par les technologies backend, l'infrastructure, et la cybersécurité. Voici un aperçu de mon parcours et de mes projets !
+Développeur back-end pragmatique, je privilégie l'utilisation des bonnes technologies adaptées aux besoins concrets des projets. Avec une expertise en Golang et Node.js, je me concentre sur la création de solutions robustes et performantes, en m'assurant que chaque outil est utilisé de manière optimale.
 
 ---
 
