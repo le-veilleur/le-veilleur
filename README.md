@@ -6,7 +6,6 @@ Développeur back-end pragmatique, je privilégie l'utilisation des bonnes techn
 
 ### 🚀 À propos de moi
 - 🧑‍💻 **Développeur back-end** avec une expertise en **Golang** et **Node.js**
-- 📍 **Localisation :** Rouen, Caen, France
 - 🛠️ Intérêt pour les **microservices**, les **API REST**, et les projets **Dockerisés**
 - 🌐 **Exploration actuelle :** Cybersécurité et création de projets innovants avec Raspberry Pi
 - 🎯 **Objectifs personnels :** Continuer à évoluer en backend et contribuer à des projets open source
