@@ -62,6 +62,5 @@ Développeur back-end pragmatique, je privilégie l'utilisation des bonnes techn
 ---
 
 ### 💬 Contact
-- 💼 [Portfolio](https://portfolio-maxime-louis-hazel.vercel.app/)
 - 🐙 [GitHub](https://github.com/maxime-louis14)
 - 📧 maximelouispro@proton.me
