@@ -1,65 +1,98 @@
-### Bienvenue sur mon GitHub 👋
+# Bienvenue sur mon GitHub 👋
 
-Développeur back-end pragmatique, je privilégie l'utilisation des bonnes technologies adaptées aux besoins concrets des projets. Avec une expertise en Golang et Node.js, je me concentre sur la création de solutions robustes et performantes, en m'assurant que chaque outil est utilisé de manière optimale.
-
----
-
-### 🚀 À propos de moi
-- 🧑‍💻 **Développeur back-end** avec une expertise en **Golang** et **Node.js**
-- 🛠️ Intérêt pour les **microservices**, les **API REST**, et les projets **Dockerisés**
-- 🌐 **Exploration actuelle :** Cybersécurité et création de projets innovants avec Raspberry Pi
-- 🎯 **Objectifs personnels :** Continuer à évoluer en backend et contribuer à des projets open source
+Développeur Full-Stack passionné et pragmatique, j’aime concevoir des solutions robustes et performantes en utilisant les technologies les plus adaptées. Mon expertise en **Golang**, **Node.js** et **React** me permet d’aborder des projets variés, tout en garantissant une qualité technique et une scalabilité optimales.
 
 ---
 
-### 🔧 Compétences techniques
+## 🚀 À propos de moi
+- 🧑‍💻 **Développeur Full-Stack** avec une spécialisation en **Golang** et **Node.js**
+- 📌 Approche pragmatique, axée sur l'utilisation des technologies les plus adaptées aux besoins des projets
+- 🌟 Expérience en **Docker**, **infrastructure sécurisée** et **monitoring avancé**
+- 🎯 Objectifs : Explorer les outils modernes, améliorer mes compétences en backend et contribuer ou créer des projets impactants
 
-#### Langages & Frameworks
-- **Backend :** Golang, Node.js
+---
+
+## 🔧 Compétences Techniques
+
+### Langages & Frameworks
+- **Backend :** Golang, Node.js, gRPC, REST API
 - **Frontend :** React, TypeScript, HTML/CSS
-- **Bases de données :** MySQL, MongoDB
+- **Bases de données :** PostgreSQL, MySQL, MongoDB, Redis
 
-#### DevOps & Outils
-- Docker, GitHub Actions
-- Infrastructure avec **Raspberry Pi**
-- Monitoring : Prometheus, Grafana
-
-#### Cybersécurité & Intérêts
-- Développement sécurisé
-- Gestion de serveurs (Nginx, Apache, UFW)
+### DevOps & Infrastructure
+- Conteneurisation : Docker, Linux Debian
+- Monitoring : Grafana, InfluxDB
+- Outils : Git, GitHub Actions, CI/CD pipelines
+- Sécurisation : Nginx, UFW, Fail2Ban
 
 ---
 
-### 📊 Stats GitHub
-![Maxime Louis GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxime-louis14&show_icons=true&hide_title=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxime-louis14&layout=compact&theme=tokyonight)
+## 📜 Réalisations Personnelles
+
+## 🛠 Projets en cours
+### Reload-Airsoft
+> **Une plateforme innovante pour connecter les passionnés d'airsoft**  
+- **Description :** Reload-Airsoft est une plateforme permettant aux passionnés d'airsoft de trouver et organiser des événements en France et, à terme, à l’international.  
+- **Technologies :** Go, React, Docker, gRPC, Redis  
+- **Architecture :**
+  - **Microservices** : Chaque service gère une partie spécifique de la plateforme (utilisateurs, événements, notifications, paiements).
+  - **API Gateway** : Point d’entrée unique pour coordonner les appels entre les microservices.  
+  - **Architecture Hexagonale** : Séparation claire entre la logique métier, les adaptateurs (bases de données, APIs externes) et les ports (interfaces externes).  
+- **Fonctionnalités :**
+  - Tableau de bord dynamique pour les organisateurs, permettant de gérer les événements et les inscriptions.
+  - Système de gestion des utilisateurs avec rôles personnalisés (joueur, organisateur, administrateur).
+  - Gestion des transactions financières pour les paiements liés aux événements.  
+  - Intégration de **gRPC** pour des communications rapides et efficaces entre services.
+  - Monitoring avancé avec **InfluxDB** et **Grafana** pour surveiller les performances et la disponibilité des services.
+- **Objectifs futurs :** Ajouter un système de recommandation d’événements basé sur l’historique des utilisateurs et l’implémentation d’un calendrier interactif.
 
 ---
 
-### 📜 Réalisations personnelles
-
-#### Reload-Airsoft
-> Une plateforme pour connecter les passionnés d'airsoft à des événements en France et à l'international. 
-- **Technologies :** Go, React.tsx, Docker
-- **Fonctionnalités :** Tableau de bord, gestion des utilisateurs et des événements
-
-#### Scraper Golang
-> Un scraper qui récupère des données depuis un site web et les stocke dans une base de données. 
-- **Technologies :** Golang, Docker, API REST
-- **Fonctionnalité :** Conversion en fichier JSON et intégration avec MySQL/MongoDB
-
-#### QRFactory
-> Application pour générer des QR codes conformes à la norme ISO/IEC 18004. 
-- **Technologies :** Golang, TDD
-- **Fonctionnalités :** Support des niveaux de correction d'erreurs, outils CLI
-
-#### ImageShack
-> Service d'hébergement d'images avec authentification JWT.
-- **Technologies :** React, Node.js, JWT
-- **Déploiement :** Serveur VPS
+### Scraper Web (Golang)
+> **Un outil performant pour extraire et organiser des données**  
+- **Description :** Développement d’un scraper capable de récupérer rapidement des données structurées à partir d’un site web et de les transformer en JSON.  
+- **Technologies :** Golang, REST API, MySQL/MongoDB, Docker  
+- **Fonctionnalités :**
+  - Récupération des données via des requêtes HTTP optimisées.
+  - Transformation des données en JSON pour une intégration simple dans d’autres systèmes.
+  - Envoi des données dans des bases relationnelles (**MySQL**) ou NoSQL (**MongoDB**) selon le cas d’utilisation.
+  - Gestion des erreurs et optimisation des performances : traitement de **65 requêtes en 3 secondes** (contre 18,38 secondes dans une version précédente).  
+- **Objectifs futurs :** Ajouter une interface graphique pour simplifier la configuration du scraper et permettre une utilisation plus large par des utilisateurs non techniques.
 
 ---
 
-### 💬 Contact
-- 🐙 [GitHub](https://github.com/maxime-louis14)
-- 📧 maximelouispro@proton.me
+### ImageShack
+> **Un service d'hébergement d'images sécurisé et performant**  
+- **Description :** Plateforme permettant d’héberger et de partager des images en ligne avec un système d’authentification sécurisé.  
+- **Technologies :** React, Node.js, JWT, Docker  
+- **Fonctionnalités :**
+  - Authentification des utilisateurs via **JWT** pour sécuriser l’accès aux images privées.
+  - Fonctionnalité de téléchargement et de gestion des images (ajout, suppression, modification des métadonnées).
+  - Déploiement sur un serveur **VPS** avec **Docker** pour assurer la scalabilité et la portabilité.
+  - Optimisation des performances pour gérer un grand nombre d’images.
+- **Objectifs futurs :** Ajouter une fonctionnalité de redimensionnement et compression automatique des images lors du téléchargement.
+
+---
+
+### QRFactory
+> **Un générateur de QR codes conforme aux normes ISO/IEC 18004**  
+- **Description :** Une application CLI pour générer des QR codes personnalisés, utilisable à la fois par les développeurs et les entreprises.  
+- **Technologies :** Golang, TDD (Test-Driven Development)  
+- **Fonctionnalités :**
+  - Support des niveaux de correction d'erreurs (L, M, Q, H).
+  - Génération rapide de QR codes avec options de personnalisation (taille, couleur, format).
+  - Génération en masse via une configuration JSON ou en ligne de commande.
+- **Objectifs futurs :** Développer une interface web pour rendre l’outil accessible à un public plus large.
+
+---
+
+## 📖 centre d'intérêts
+### Cybersécurité & Raspberry Pi
+- Exploration de solutions sécurisées pour les serveurs domestiques  
+- Projets d’apprentissage autour de l’optimisation réseau et des environnements conteneurisés
+
+---
+
+## 📬 Contact
+- 🐙 [GitHub](https://github.com/maxime-louis14)  
+- 📧 **maximelouispro@proton.me**   
