@@ -1,14 +1,8 @@
 # Bienvenue sur mon GitHub 👋
-
-Développeur pragmatique et motivé, je conçois des solutions back-end performantes et scalables en Golang, tout en maîtrisant des outils d’infrastructure modernes comme Docker, Grafana, et Traefik. Passionné par l’apprentissage continu, je suis capable d’intervenir sur des projets complets, de l’API REST aux bases de données (PostgreSQL, MongoDB). Mon objectif : accompagner des entreprises innovantes à relever leurs défis techniques grâce à des approches modernes et sécurisées.
-
 ---
 
 ## 🚀 À propos de moi
-- 🧑‍💻 **Développeur Full-Stack** avec une spécialisation en **Golang** et **Node.js**
-- 📌 Approche pragmatique, axée sur l'utilisation des technologies les plus adaptées aux besoins des projets
-- 🌟 Expérience en **Docker**, **infrastructure sécurisée** et **monitoring avancé**
-- 🎯 Objectifs : Explorer les outils modernes, améliorer mes compétences en backend et contribuer ou créer des projets impactants
+Développeur pragmatique et motivé, je conçois des solutions back-end performantes et scalables en Golang, tout en maîtrisant des outils d’infrastructure modernes comme Docker, Grafana, et Traefik. Passionné par l’apprentissage continu, je suis capable d’intervenir sur des projets complets, de l’API REST aux bases de données (PostgreSQL, MongoDB). Mon objectif : accompagner des entreprises innovantes à relever leurs défis techniques grâce à des approches modernes et sécurisées.
 
 ---
 
@@ -16,14 +10,17 @@ Développeur pragmatique et motivé, je conçois des solutions back-end performa
 
 ### Langages & Frameworks
 - **Backend :** Golang, Node.js, gRPC, REST API
-- **Frontend :** React, TypeScript, HTML/CSS
+- **Frontend :** React, TypeScript, JavaScript, HTML/CSS
 - **Bases de données :** PostgreSQL, MySQL, MongoDB, Redis
 
 ### DevOps & Infrastructure
 - Conteneurisation : Docker, Linux Debian
 - Monitoring : Grafana, InfluxDB
-- Outils : Git, GitHub Actions, CI/CD pipelines
-- Sécurisation : Nginx, UFW, Fail2Ban
+- Outils : Git, GitHub Actions, CI/CD pipelines, API Gateway
+- Sécurisation : Nginx, UFW, Fail2Ban, Traefik
+
+## Méthodes et Gestion de Projet
+- TDD, Tests Unitaires, Agile/Scrum, Analyse des Besoins, Gestion des Risques
 
 ---
 
