@@ -1,95 +1,96 @@
 # Bienvenue sur mon GitHub 👋
+
 ---
 
 ## 🚀 À propos de moi
-Développeur polyvalent, je conçois des solutions robustes et performantes en Golang pour le back-end et en React pour le front-end. Mon expertise couvre également la gestion d’infrastructures modernes avec des outils comme Docker, Grafana, et Traefik. Curieux et motivé, je suis à la recherche d’un CDI ou CDD pour contribuer à des projets techniques, que ce soit en Back-End, Front-End, ou Full-Stack, dans des environnements collaboratifs et innovants.
+
+Je suis **Développeur Full-Stack Junior**, spécialisé en **Golang** pour le back-end et **React** pour le front-end.  
+Passionné par les infrastructures modernes et les solutions performantes, je maîtrise des outils tels que **Docker**, **Grafana**, et **Traefik**.  
+Toujours curieux et motivé, je recherche des opportunités pour contribuer à des projets techniques exigeants, que ce soit en **Back-End**, **Front-End**, ou **Full-Stack**, dans un environnement collaboratif et innovant.
+
 ---
 
 ## 🔧 Compétences Techniques
 
-### Langages & Frameworks
-- **Backend :** Golang, Node.js, gRPC, REST API
-- **Frontend :** React, TypeScript, JavaScript, HTML/CSS
-- **Bases de données :** PostgreSQL, MySQL, MongoDB, Redis
+### Langages et Frameworks
+- **Back-End :** Golang, Node.js, gRPC, REST API  
+- **Front-End :** React, TypeScript, JavaScript, HTML/CSS  
+- **Bases de données :** PostgreSQL, MySQL, MongoDB, Redis  
 
-### DevOps & Infrastructure
-- Conteneurisation : Docker, Linux Debian
-- Monitoring : Grafana, InfluxDB
-- Outils : Git, GitHub Actions, CI/CD pipelines, API Gateway
-- Sécurisation : Nginx, UFW, Fail2Ban, Traefik
+### DevOps et Infrastructure
+- **Conteneurisation :** Docker, Linux Debian  
+- **Monitoring :** Grafana, InfluxDB  
+- **Outils :** Git, GitHub Actions, CI/CD pipelines, API Gateway  
+- **Sécurisation :** NGINX, UFW, Fail2Ban, Traefik  
 
-## Méthodes et Gestion de Projet
-- TDD, Tests Unitaires, Agile/Scrum, Analyse des Besoins, Gestion des Risques
+### Méthodes et Gestion de Projet
+- TDD, Tests Unitaires  
+- Méthodes Agile/Scrum  
+- Analyse des besoins, Gestion des risques  
 
 ---
 
 ## 📜 Réalisations Personnelles
 
-## 🛠 Projets en cours
-### Reload-Airsoft
-> **Une plateforme innovante pour connecter les passionnés d'airsoft**  
-- **Description :** Reload-Airsoft est une plateforme permettant aux passionnés d'airsoft de trouver et organiser des événements en France et, à terme, à l’international.  
+### 🔥 Reload-Airsoft *(2023-2024)*
+> En coure de développement **Une plateforme innovante pour connecter les passionnés d'airsoft.**  
 - **Technologies :** Go, React, Docker, gRPC, Redis  
-- **Architecture :**
-  - **Microservices** : Chaque service gère une partie spécifique de la plateforme (utilisateurs, événements, notifications, paiements).
-  - **API Gateway** : Point d’entrée unique pour coordonner les appels entre les microservices.  
-  - **Architecture Hexagonale** : Séparation claire entre la logique métier, les adaptateurs (bases de données, APIs externes) et les ports (interfaces externes).  
-- **Fonctionnalités :**
-  - Tableau de bord dynamique pour les organisateurs, permettant de gérer les événements et les inscriptions.
-  - Système de gestion des utilisateurs avec rôles personnalisés (joueur, organisateur, administrateur).
-  - Gestion des transactions financières pour les paiements liés aux événements.  
-  - Intégration de **gRPC** pour des communications rapides et efficaces entre services.
-  - Monitoring avancé avec **InfluxDB** et **Grafana** pour surveiller les performances et la disponibilité des services.
-- **Objectifs futurs :** Ajouter un système de recommandation d’événements basé sur l’historique des utilisateurs et l’implémentation d’un calendrier interactif.
+- **Architecture :**  
+  - **Microservices :** Chaque service gère une partie spécifique de la plateforme (utilisateurs, événements, notifications, paiements).  
+  - **API Gateway :** Point d’entrée unique pour coordonner les appels entre les microservices.  
+  - **Architecture Hexagonale :** Séparation claire entre la logique métier et les couches d’infrastructure.  
+- **Fonctionnalités :**  
+  - Tableau de bord dynamique pour gérer les événements et inscriptions.  
+  - Système de gestion des utilisateurs avec rôles personnalisés (joueur, organisateur, administrateur).  
+  - Intégration de **gRPC** pour des communications rapides entre services.  
+  - Monitoring avancé avec **InfluxDB** et **Grafana**.  
+- **Impact :** Plateforme modulaire, évolutive et prête à s’étendre à l’international.  
 
 ---
 
-### Scraper Web (Golang)
-> **Un outil performant pour extraire et organiser des données**  
-- **Description :** Développement d’un scraper capable de récupérer rapidement des données structurées à partir d’un site web et de les transformer en JSON.  
+### 🧩 QRFactory *(2023-2024)*  
+> **Un générateur de QR codes conforme aux normes ISO/IEC 18004.**  
+- **Technologies :** Golang, TDD  
+- **Fonctionnalités :**  
+  - Génération personnalisée de QR codes (taille, couleurs, formats).  
+  - Génération en masse via JSON ou CLI.  
+
+---
+
+### 🔧 Scraper Web *(2022-2023)*  
+> **Un outil performant pour extraire et organiser des données.**  
 - **Technologies :** Golang, REST API, MySQL/MongoDB, Docker  
-- **Fonctionnalités :**
-  - Récupération des données via des requêtes HTTP optimisées.
-  - Transformation des données en JSON pour une intégration simple dans d’autres systèmes.
-  - Envoi des données dans des bases relationnelles (**MySQL**) ou NoSQL (**MongoDB**) selon le cas d’utilisation.
-  - Gestion des erreurs et optimisation des performances : traitement de **65 requêtes en 3 secondes** (contre 18,38 secondes dans une version précédente).  
-- **Objectifs futurs :** Ajouter une interface graphique pour simplifier la configuration du scraper et permettre une utilisation plus large par des utilisateurs non techniques.
+- **Fonctionnalités :**  
+  - Extraction optimisée de données via des requêtes HTTP.  
+  - Transformation des données en JSON pour une intégration simple dans d’autres systèmes.  
+  - Stockage des données dans des bases relationnelles ou NoSQL.  
+  - **Performances :** traitement de **65 requêtes en 3 secondes** (contre 18,38 secondes initialement).  
 
 ---
 
-### ImageShack
-> **Un service d'hébergement d'images sécurisé et performant**  
-- **Description :** Plateforme permettant d’héberger et de partager des images en ligne avec un système d’authentification sécurisé.  
+### 📷 ImageShack *(2022-2023)*  
+> **Un service d'hébergement d'images sécurisé et performant.**  
 - **Technologies :** React, Node.js, JWT, Docker  
-- **Fonctionnalités :**
-  - Authentification des utilisateurs via **JWT** pour sécuriser l’accès aux images privées.
-  - Fonctionnalité de téléchargement et de gestion des images (ajout, suppression, modification des métadonnées).
-  - Déploiement sur un serveur **VPS** avec **Docker** pour assurer la scalabilité et la portabilité.
-  - Optimisation des performances pour gérer un grand nombre d’images.
-- **Objectifs futurs :** Ajouter une fonctionnalité de redimensionnement et compression automatique des images lors du téléchargement.
+- **Fonctionnalités :**  
+  - Authentification sécurisée via **JWT**.  
+  - Gestion des images (ajout, suppression, modification des métadonnées).  
+  - Déploiement sur serveur **VPS** avec **Docker**.  
+  - Optimisation des performances pour gérer un grand nombre d’images.  
 
 ---
 
-### QRFactory
-> **Un générateur de QR codes conforme aux normes ISO/IEC 18004**  
-- **Description :** Une application CLI pour générer des QR codes personnalisés, utilisable à la fois par les développeurs et les entreprises.  
-- **Technologies :** Golang, TDD (Test-Driven Development)  
-- **Fonctionnalités :**
-  - Support des niveaux de correction d'erreurs (L, M, Q, H).
-  - Génération rapide de QR codes avec options de personnalisation (taille, couleur, format).
-  - Génération en masse via une configuration JSON ou en ligne de commande.
-- **Objectifs futurs :** Développer une interface web pour rendre l’outil accessible à un public plus large.
+## 📖 Centres d’Intérêts  
 
----
-
-## 📖 centre d'intérêts
-### Cybersécurité & Raspberry Pi
-- Rédaction d’un livre blanc sur la cybersécurité dans les environnements critiques.
-- Création de divers projets, tels qu’un serveur web et un serveur VPN, avec un Raspberry Pi 3B+ (4 Go).
-- Recherche de nouveaux projets à réaliser avec un Raspberry Pi 5 (16 Go).
+### Cybersécurité & Raspberry Pi  
+- Rédaction d’un livre blanc sur la cybersécurité dans des environnements critiques.  
+- Création de projets tels qu’un serveur web et un serveur VPN avec un **Raspberry Pi 3B+**.  
+- Exploration de nouveaux projets avec un **Raspberry Pi 5 (16 Go)**.  
 
 ---
 
 ## 📬 Contact
-- 🐙 [GitHub](https://github.com/maxime-louis14)  
-- 📧 **maximelouispro@proton.me**   
+
+- 🐙 **GitHub :** [maxime-louis14](https://github.com/maxime-louis14)  
+- 📧 **Email :** maximelouispro@proton.me  
+
+---
