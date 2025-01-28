@@ -1,6 +1,6 @@
 # Bienvenue sur mon GitHub 👋
 
-Développeur Full-Stack passionné et pragmatique, j’aime concevoir des solutions robustes et performantes en utilisant les technologies les plus adaptées. Mon expertise en **Golang**, **Node.js** et **React** me permet d’aborder des projets variés, tout en garantissant une qualité technique et une scalabilité optimales.
+Développeur pragmatique et motivé, je conçois des solutions back-end performantes et scalables en Golang, tout en maîtrisant des outils d’infrastructure modernes comme Docker, Grafana, et Traefik. Passionné par l’apprentissage continu, je suis capable d’intervenir sur des projets complets, de l’API REST aux bases de données (PostgreSQL, MongoDB). Mon objectif : accompagner des entreprises innovantes à relever leurs défis techniques grâce à des approches modernes et sécurisées.
 
 ---
 
