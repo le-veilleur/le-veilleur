@@ -88,9 +88,9 @@ Développeur Full-Stack passionné et pragmatique, j’aime concevoir des soluti
 
 ## 📖 centre d'intérêts
 ### Cybersécurité & Raspberry Pi
-- Exploration de solutions sécurisées pour les serveurs domestiques  
-- Projets d’apprentissage autour de l’optimisation réseau et des environnements conteneurisés
-
+Rédaction d’un livre blanc sur la cybersécurité dans les environnements critiques.
+Création de divers projets, tels qu’un serveur web et un serveur VPN, avec un Raspberry Pi 3B+ (4 Go).
+Recherche de nouveaux projets à réaliser avec un Raspberry Pi 5 (16 Go).
 ---
 
 ## 📬 Contact
