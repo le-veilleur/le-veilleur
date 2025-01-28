@@ -1,7 +1,3 @@
-# Bienvenue sur mon GitHub 👋
-
----
-
 ## 🚀 À propos de moi
 
 Je suis **Développeur Full-Stack Junior**, spécialisé en **Golang** pour le back-end et **React** pour le front-end.  
