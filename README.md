@@ -2,8 +2,7 @@
 ---
 
 ## 🚀 À propos de moi
-Développeur pragmatique et motivé, je conçois des solutions back-end performantes et scalables en Golang, tout en maîtrisant des outils d’infrastructure modernes comme Docker, Grafana, et Traefik. Passionné par l’apprentissage continu, je suis capable d’intervenir sur des projets complets, de l’API REST aux bases de données (PostgreSQL, MongoDB). Mon objectif : accompagner des entreprises innovantes à relever leurs défis techniques grâce à des approches modernes et sécurisées.
-
+Développeur polyvalent, je conçois des solutions robustes et performantes en Golang pour le back-end et en React pour le front-end. Mon expertise couvre également la gestion d’infrastructures modernes avec des outils comme Docker, Grafana, et Traefik. Curieux et motivé, je suis à la recherche d’un CDI ou CDD pour contribuer à des projets techniques, que ce soit en Back-End, Front-End, ou Full-Stack, dans des environnements collaboratifs et innovants.
 ---
 
 ## 🔧 Compétences Techniques
