@@ -85,8 +85,6 @@ Toujours curieux et motivé, je recherche des opportunités pour contribuer à d
 ---
 
 ## 📬 Contact
-
-- 🐙 **GitHub :** [maxime-louis14](https://github.com/maxime-louis14)  
 - 📧 **Email :** maximelouispro@proton.me  
 
 ---
