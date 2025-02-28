@@ -29,7 +29,7 @@ Toujours curieux et motivé, je recherche des opportunités pour contribuer à d
 ## 📜 Réalisations Personnelles
 
 ### 🔥 Reload-Airsoft *(2023-2024)*
-> En coure de développement **Une plateforme innovante pour connecter les passionnés d'airsoft.**  
+> En cours de développement : une plateforme innovante pour connecter les passionnés d'airsoft.**  
 - **Technologies :** Go, React, Docker, gRPC, Redis  
 - **Architecture :**  
   - **Microservices :** Chaque service gère une partie spécifique de la plateforme (utilisateurs, événements, notifications, paiements).  
