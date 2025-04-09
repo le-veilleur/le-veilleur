@@ -1,8 +1,6 @@
 ## 🚀 À propos de moi
 
-Je suis **Développeur Full-Stack Junior**, spécialisé en **Golang** pour le back-end et **React** pour le front-end.  
-Passionné par les infrastructures modernes et les solutions performantes, je maîtrise des outils tels que **Docker**, **Grafana**, et **Traefik**.  
-Toujours curieux et motivé, je recherche des opportunités pour contribuer à des projets techniques exigeants, que ce soit en **Back-End**, **Front-End**, ou **Full-Stack**, dans un environnement collaboratif et innovant.
+Développeur back-end avec une approche pratique et orientés résultats, je privilégie Golang pour la création d’API fiables et efficaces. Ayant aussi manipulé Node et TypeScript, je cherche à développer des solutions adaptées aux besoins techniques des projets. Motivé par les défis techniques, je suis prêt à mettre mes compétences au service d’une équipe dynamique dans un environnement back-end exigeant.
 
 ---
 
