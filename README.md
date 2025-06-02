@@ -1,7 +1,4 @@
-# Maxime LOUIS — Développeur Back-end | Go | TypeScript • Monolithes & Microservices • CI/CD
-
-📧 maximelouispro@proton.me
-
+# Développeur Back-end | Go | TypeScript • Monolithes & Microservices • CI/CD
 ---
 
 ## 👨‍💻 À propos
