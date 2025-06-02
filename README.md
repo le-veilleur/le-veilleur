@@ -1,81 +1,127 @@
-## 🚀 À propos de moi
+# Maxime LOUIS — Développeur Back-end | Go | TypeScript • Monolithes & Microservices • CI/CD
 
-Développeur back-end avec une approche pratique et orientés résultats, je privilégie Golang pour la création d’API fiables et efficaces. Ayant aussi manipulé Node et TypeScript, je cherche à développer des solutions adaptées aux besoins techniques des projets. Motivé par les défis techniques, je suis prêt à mettre mes compétences au service d’une équipe dynamique dans un environnement back-end exigeant.
-
----
-
-## 🔧 Compétences Techniques
-
-### Langages et Frameworks
-- **Back-End :** Golang, Node.js, gRPC, REST API  
-- **Front-End :** React, TypeScript, JavaScript, HTML/CSS  
-- **Bases de données :** PostgreSQL, MySQL, MongoDB, Redis  
-
-### DevOps et Infrastructure
-- **Conteneurisation :** Docker, Linux Debian  
-- **Monitoring :** Grafana, InfluxDB  
-- **Outils :** Git, GitHub Actions, CI/CD pipelines, API Gateway  
-- **Sécurisation :** NGINX, UFW, Fail2Ban, Traefik  
-
-### Méthodes et Gestion de Projet
-- TDD, Tests Unitaires  
-- Méthodes Agile/Scrum  
-- Analyse des besoins, Gestion des risques  
+📧 maximelouispro@proton.me
 
 ---
 
-## 📜 Réalisations Personnelles
+## 👨‍💻 À propos
 
-### 🔥 Reload-Airsoft *(2023-2024)*
-> En cours de développement : une plateforme innovante pour connecter les passionnés d'airsoft.**  
-- **Technologies :** Go, React, Docker, gRPC, Redis  
-- **Architecture :**  
-  - **Microservices :** Chaque service gère une partie spécifique de la plateforme (utilisateurs, événements, notifications, paiements).  
-  - **API Gateway :** Point d’entrée unique pour coordonner les appels entre les microservices.  
-  - **Architecture Hexagonale :** Séparation claire entre la logique métier et les couches d’infrastructure.  
-- **Fonctionnalités :**  
-  - Tableau de bord dynamique pour gérer les événements et inscriptions.  
-  - Système de gestion des utilisateurs avec rôles personnalisés (joueur, organisateur, administrateur).  
-  - Intégration de **gRPC** pour des communications rapides entre services.  
-  - Monitoring avancé avec **InfluxDB** et **Grafana**.  
-- **Impact :** Plateforme modulaire, évolutive et prête à s’étendre à l’international.  
+Développeur back-end passionné par la conception de **systèmes distribués robustes**, je mets un point d’honneur à développer des solutions **performantes, sécurisées et scalables**.  
+Je travaille principalement avec **Go**, en m'appuyant sur une **architecture hexagonale** et des pratiques rigoureuses : tests automatisés, CI/CD, documentation, monitoring.
+
+Je cherche à intégrer une équipe technique ambitieuse, axée sur la **performance, la sécurité**, la **scalabilité**, ou les **systèmes critiques**.
 
 ---
 
-### 🧩 QRFactory *(2023-2024)*  
-> **Un générateur de QR codes conforme aux normes ISO/IEC 18004.**  
-- **Technologies :** Golang, TDD  
-- **Fonctionnalités :**  
-  - Génération personnalisée de QR codes (taille, couleurs, formats).  
-  - Génération en masse via JSON ou CLI.  
+## 🧠 Stack Technique
+
+### Langages
+- **Go (Golang)** · TypeScript · JavaScript · Bash · SQL
+
+### Backend & API
+- gRPC · REST · API Gateway  
+- Authentification JWT + sessions  
+- Architecture hexagonale (inspirée DDD) · Modularité
+
+### Bases de données
+- PostgreSQL · MongoDB · MySQL  
+- Redis · Dragonfly
+
+### DevOps / CI/CD / Monitoring
+- Docker · GitHub Actions (lint/test/build/push)  
+- Prometheus · Grafana · InfluxDB  
+- Makefile · Linux
+
+### Tests & Qualité
+- TDD · Tests unitaires et d’intégration  
+- Analyse statique · Coverage · Métriques de performance
+
+### Front-end (support interne / PWA)
+- React · Next.js · TailwindCSS
 
 ---
 
-### 🔧 Scraper Web *(2022-2023)*  
-> **Un outil performant pour extraire et organiser des données.**  
-- **Technologies :** Golang, REST API, MySQL/MongoDB, Docker  
-- **Fonctionnalités :**  
-  - Extraction optimisée de données via des requêtes HTTP.  
-  - Transformation des données en JSON pour une intégration simple dans d’autres systèmes.  
-  - Stockage des données dans des bases relationnelles ou NoSQL.  
-  - **Performances :** traitement de **65 requêtes en 3 secondes** (contre 18,38 secondes initialement).  
+## 🚀 Projets Techniques
+
+### 🔫 Reload-Airsoft *(en cours)*
+> Application d’airsoft en architecture microservices avec gestion de sessions, équipes, scoring, et matériel.
+
+- **5 microservices en Go** connectés en **gRPC**, exposés via une **API Gateway REST stateless**
+- Authentification hybride (**JWT + session Redis**)
+- **CI/CD complet** avec GitHub Actions (lint, tests, sécurité, déploiement)
+- Monitoring via **Prometheus + Grafana**
+- Architecture **hexagonale**, tests unitaires & intégration
+- Stack : Go · gRPC · Redis · MongoDB · PostgreSQL · Docker · GitHub Actions · Makefile
 
 ---
 
-### 📷 ImageShack *(2022-2023)*  
-> **Un service d'hébergement d'images sécurisé et performant.**  
-- **Technologies :** React, Node.js, JWT, Docker  
-- **Fonctionnalités :**  
-  - Authentification sécurisée via **JWT**.  
-  - Gestion des images (ajout, suppression, modification des métadonnées).  
-  - Déploiement sur serveur **VPS** avec **Docker**.  
-  - Optimisation des performances pour gérer un grand nombre d’images.  
+### 📦 QRFactory
+> Générateur de QR Codes en ligne de commande, conforme à la norme ISO/IEC 18004.
+
+- Développement modulaire en **Go**
+- Support des modes : **alphanumérique, numérique, byte, Kanji**
+- Architecture **clean**, tests systématiques
+- CLI légère et portable
 
 ---
 
-## 📖 Centres d’Intérêts  
+### 🕸️ Web Scraper API
+> API REST en Go récupérant et structurant des données issues du web (scraping).
 
-### Cybersécurité & Raspberry Pi  
-- Rédaction d’un livre blanc sur la cybersécurité dans des environnements critiques.  
-- Création de projets tels qu’un serveur web et un serveur VPN avec un **Raspberry Pi 3B+**.  
-- Exploration de nouveaux projets avec un **Raspberry Pi 5 (16 Go)**.  
+- Extraction optimisée, **+80 % de performance**
+- Stockage structuré dans **MongoDB / MySQL**
+- Modularité, gestion d’erreurs, tests intégrés
+
+---
+
+## 💼 Expériences
+
+### Les Éco Pépites · 2022 – 2023  
+- Maintenance et optimisation d’un site WordPress à fort trafic  
+- Réduction du temps de chargement (images, scripts, audits)  
+- Intégration de fonctionnalités en modifiant des plugins  
+- Travail en méthode Agile · Sensibilisation RGPD (cookies)
+
+### L’Élan Gymnique Rouennais · 2021 – 2022  
+- Création du site vitrine sous WordPress  
+- Développement d’une **PWA** en **Next.js** pour guider les utilisateurs sur site
+
+---
+
+## 🎓 Formation
+
+**Normandie Web School** – Bac +3 Chef de Projet Digital (2020–2023)  
+Spécialité : Développement Web
+
+- Rédaction d’un **livre blanc sur la cybersécurité** dans les systèmes critiques  
+- Réalisations : serveur web personnel, serveur VPN, PWA Next.js
+
+---
+
+## 🎯 Objectif professionnel
+
+Intégrer une équipe technique **exigeante et bienveillante**, où je peux :
+
+- Contribuer à la conception de **systèmes distribués complexes**
+- Appliquer des méthodes modernes : **tests, CI/CD, monitoring**
+- Monter en expertise sur les enjeux de **scalabilité, sécurité et performance**
+
+---
+
+## 🛠 Environnement & Méthodes
+
+- **OS** : Linux (Fedora, Debian, Raspberry Pi OS)
+- **Versioning** : Git, GitHub, GitHub Actions
+- **Méthodes** : Agile / Scrum · Gestion des risques · Analyse fonctionnelle
+- **Outils** : Notion · Figma · Docker Desktop · Grafana / Prometheus stack
+
+---
+
+## 🧠 Centres d’intérêts
+
+- **Cybersécurité** : protection des services exposés, analyse de logs
+- **Auto-hébergement** : Raspberry Pi, services offline, architecture low-power
+- **Systèmes distribués** : tolérance aux pannes, scalabilité horizontale
+- **Gaming** : FPS tactiques, Soulslike (CS2, Call of Duty, Elden Ring)
+
+---
