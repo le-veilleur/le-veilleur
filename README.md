@@ -8,6 +8,7 @@ Je travaille principalement avec **Go**, en m'appuyant sur une **architecture he
 
 Je cherche à intégrer une équipe technique ambitieuse, axée sur la **performance, la sécurité**, la **scalabilité**, ou les **systèmes critiques**.
 
+[📄 Voir mon CV (PDF)](https://github.com/le-veilleur/CV/blob/main/Free_work_Maxime_Louis_D%C3%A9veloppeur_back-end.pdf)
 ---
 
 ## 🧠 Stack Technique
