@@ -1,4 +1,4 @@
-# Développeur Back-end | Go | TypeScript • Monolithes & Microservices • CI/CD
+# Développeur Back-end | Go | 
 ---
 
 ## 👨‍💻 À propos
