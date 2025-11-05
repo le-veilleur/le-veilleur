@@ -3,8 +3,11 @@
 
 ## 👨‍💻 À propos
 
-Développeur back-end passionné par la conception de **systèmes distribués robustes**, je mets un point d’honneur à développer des solutions **performantes, sécurisées et scalables**.  
-Je travaille principalement avec **Go**, en m'appuyant sur une **architecture hexagonale** et des pratiques rigoureuses : tests automatisés, CI/CD, documentation, monitoring.
+Développeur fullstack spécialisé en Go, je conçois des solutions web performantes et évolutives, en alliant robustesse backend et expérience utilisateur fluide.
+
+Ma pratique repose sur la qualité du code, la sécurité et la performance, avec une expertise couvrant Go, Node.js, TypeScript, et des environnements mainframe Cobol.
+
+Sérieux, autonome et persévérant, je m’attache à livrer des solutions durables et efficaces.
 
 Je cherche à intégrer une équipe technique ambitieuse, axée sur la **performance, la sécurité**, la **scalabilité**, ou les **systèmes critiques**.
 
