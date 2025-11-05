@@ -1,4 +1,4 @@
-# Développeur Back-end | Go | 
+# Développeur FULL-STACK
 ---
 
 ## 👨‍💻 À propos
@@ -8,8 +8,6 @@ Développeur fullstack spécialisé en Go, je conçois des solutions web perform
 Ma pratique repose sur la qualité du code, la sécurité et la performance, avec une expertise couvrant Go, Node.js, TypeScript, et des environnements mainframe Cobol.
 
 Sérieux, autonome et persévérant, je m’attache à livrer des solutions durables et efficaces.
-
-Je cherche à intégrer une équipe technique ambitieuse, axée sur la **performance, la sécurité**, la **scalabilité**, ou les **systèmes critiques**.
 
 ---
 
