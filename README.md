@@ -1,6 +1,6 @@
 Salut, je suis Maxime 👋
 
-[Website](https://maximelouis.dev) · [GitHub](https://github.com/le-veilleur) · [LinkedIn](https://linkedin.com/in/maxime-louis) · [Email](mailto:maximelouispro@proton.me)
+[Website](https://maximelouis.dev) · [GitHub](https://github.com/le-veilleur) · [LinkedIn](https://www.linkedin.com/in/maxime-l-5530941b5/) · [Email](mailto:maximelouispro@proton.me)
 
 Je suis **Développeur Full-Stack**, spécialisé dans l'écosystème JavaScript/TypeScript moderne, **Go**, et les systèmes mainframe (**COBOL**, **z/OS**, **JCL**).
 
