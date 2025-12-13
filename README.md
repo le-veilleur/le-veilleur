@@ -2,7 +2,7 @@ Salut, je suis Maxime 👋
 
 [Website](https://maximelouis.dev) · [GitHub](https://github.com/le-veilleur) · [LinkedIn](https://www.linkedin.com/in/maxime-l-5530941b5/) · [Email](mailto:maximelouispro@proton.me)
 
-Je suis **Développeur Full-Stack**, spécialisé dans l'écosystème JavaScript/TypeScript moderne, **Go**, et les systèmes mainframe (**COBOL**, **z/OS**, **JCL**).
+Je suis **Développeur Full-Stack**, spécialisé dans l'écosystème **JavaScript/TypeScript** moderne, **Go**, et les systèmes mainframe (**COBOL**, **z/OS**, **JCL**).
 
 Mon expertise s'articule autour de **Go** pour le backend haute performance, et de l'écosystème JavaScript avec **Node.js**, **Bun** et **Deno** pour des applications full-stack performantes. Côté frontend, je maîtrise **React** pour créer des interfaces utilisateur modernes et réactives.
 
